@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+.DS_Store
+answers
+.hg
+*.jpg
+*.png
+env
+.idea/*
+franz_mosaic/img
+franz_mosaic/out
