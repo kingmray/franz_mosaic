@@ -13,7 +13,7 @@ pip install franz_mosaic
 ```
 ## usage
 
-create a img folder with source image and a out folder for the rescaled images.
+create a 'img' folder with source image and a 'out' folder for the rescaled images.
 
 ``` bash
 franz_mosaic -r 1 #for rescale
