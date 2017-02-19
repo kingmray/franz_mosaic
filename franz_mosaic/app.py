@@ -5,8 +5,6 @@ import math
 import argparse
 import colorsys
 
-
-import timeit
 from PIL import Image
 
 
