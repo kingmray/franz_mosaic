@@ -6,6 +6,11 @@ you need python3 pip and virtualenv. create a virtual env with python3 environme
 
 https://hackercodex.com/guide/python-development-environment-on-mac-osx/
 
+after creating virtual env
+
+``` bash
+source env/bin/activate
+```
 ## installation
 
 ``` bash
