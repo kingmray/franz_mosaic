@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='franz_mosaic',
     packages=['my_python_package'],
-    version='version number',  # Ideally should be same as your GitHub release tag varsion
+    version='v1.0',  # Ideally should be same as your GitHub release tag varsion
     description='reduces pictures and creates new image based on reduced information',
     author='raymond schmidt',
     author_email='raymond.schmidt@googlemail.com',
