@@ -8,7 +8,7 @@ setup(
     author='raymond schmidt',
     author_email='raymond.schmidt@googlemail.com',
     url='https://github.com/kingmray/franz_mosaic',
-    download_url='https://github.com/kingmray/franz_mosaic/archive/v1.0.tar.gz',
+    download_url='https://github.com/kingmray/franz_mosaic/archive/v1.0.1.tar.gz',
     keywords=['image', 'processing'],
     classifiers=[],
     entry_points={
