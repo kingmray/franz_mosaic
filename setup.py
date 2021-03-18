@@ -16,6 +16,6 @@ setup(
     },
     install_requires=[
         "instagram-scraper==1.1.0",
-        "Pillow==4.0.0"
+        "Pillow==8.1.1"
     ]
 )
